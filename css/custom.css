@@ -1,0 +1,108 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Arvo);
+
+.yanone {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.arvo {
+    font-family: 'Arvo', serif;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.navbar-brand img {
+    height: 52px;
+    margin-top: -15px;
+    margin-left: -30px;
+}
+
+.navbar-right li a {
+    font-size: 28px;
+    line-height: 20px;
+}
+
+ul.nav.navbar-nav.navbar-right.yanone li a:hover {
+    color: #e7580a;
+}
+
+ul.nav.navbar-nav.navbar-right.yanone {
+    font-weight: 700;
+}
+
+.navbar {
+    border-bottom: 4px #ccc solid;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+    padding: 30px;
+    margin-top: -20px;
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+    background: url('../images/hero-image.jpg') no-repeat;
+}
+
+.jumbotron .btn {
+    padding: 14px 24px;
+    font-size: 30px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.jumbotron h1 {
+    color: white;
+    font-size: 80px;
+    text-transform: uppercase;
+}
+
+.jumbotron p {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    background: rgba(54, 53, 53, 0.5)
+}
+
+#about h2 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    padding-top: 60px;
+}
+
+#about p {
+    font-family: 'Arvo', serif;
+}
+
+#contact h2 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    padding-top: 60px;
+}
+
+#contact p {
+    font-family: 'Arvo', serif;
+    font-size: 30px;
+}
+
+#contact h3 {
+    font-family: 'Arvo', serif;
+    font-size: 40px;
+}
+
+#social h2 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    padding-top: 60px;
+}
+
+footer {
+    margin-top: 20px;
+    background: #000;
+    color: #fff;
+}
